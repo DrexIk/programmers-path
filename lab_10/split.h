@@ -4,4 +4,4 @@ struct Time {
 };
 
 int on_work();  
-int off_work();
+int off_work(); 
