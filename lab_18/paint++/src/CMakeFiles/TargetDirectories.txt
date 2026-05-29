@@ -1,0 +1,3 @@
+/home/dyxa/Git_programming/lab_18/paint++/src/CMakeFiles/paint.dir
+/home/dyxa/Git_programming/lab_18/paint++/src/CMakeFiles/edit_cache.dir
+/home/dyxa/Git_programming/lab_18/paint++/src/CMakeFiles/rebuild_cache.dir
